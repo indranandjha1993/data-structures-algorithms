@@ -1,0 +1,19 @@
+[project]
+name = "data-structures-algorithms"
+version = "0.1.0"
+description = "Hands-on learning notebooks for data structures and algorithms: Python implementations, visualisations and interactive labs"
+readme = "README.md"
+authors = [
+    { name = "Indra Nand Jha", email = "indranandjha0@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "ipywidgets>=8.1.9",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
