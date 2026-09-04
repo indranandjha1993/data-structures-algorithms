@@ -65,3 +65,14 @@ seconds each; the numbers depend on your machine, the shapes of the curves do no
 The notebooks are the source of truth: edit them directly in JupyterLab. If you add or reorder modules,
 keep the navigation links at the top and bottom of each notebook pointing at the right neighbours and at
 `00_Start_Here.ipynb`, and update the course map there and in this README.
+
+## Related courses
+
+This is one of three hands-on notebook courses built in the same format:
+
+- [Quantum Computing with Code](https://github.com/indranandjha1993/quantum-computing): qubits to Grover and noise, with Qiskit
+- [Design Patterns](https://github.com/indranandjha1993/design-patterns): the 23 Gang of Four patterns and the architectures they live in
+
+## License
+
+MIT. Use it, fork it, teach with it.
