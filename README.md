@@ -1,8 +1,16 @@
 # Data Structures and Algorithms
 
+[![Read online](https://img.shields.io/badge/read%20online-github%20pages-blue)](https://indranandjha1993.github.io/data-structures-algorithms/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indranandjha1993/data-structures-algorithms/main?urlpath=lab/tree/src/00_Start_Here.ipynb)
+
 A hands-on, eight-notebook course in data structures and algorithms. Every idea is introduced three ways:
 as a **picture** of the structure, as **Python code short enough to read in one screen**, and as a
 **measurement** on your own machine, so Big-O claims are checked with timing plots rather than taken on faith.
+
+## Read or run it
+
+- **Read online:** https://indranandjha1993.github.io/data-structures-algorithms/ is the full course as a website, built from these notebooks on every push.
+- **Run online:** the Binder badge above opens the notebooks in a live JupyterLab in your browser, labs included. The first launch after a change takes a few minutes while the image builds; later launches are quick.
+- **Run locally:** see Setup below.
 
 ## Course map
 

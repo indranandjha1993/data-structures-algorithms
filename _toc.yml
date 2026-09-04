@@ -1,0 +1,10 @@
+format: jb-book
+root: src/00_Start_Here
+chapters:
+- file: src/01_Complexity_and_Big_O
+- file: src/02_Arrays_Linked_Lists_Stacks_Queues
+- file: src/03_Hash_Tables_and_Sets
+- file: src/04_Recursion_Searching_and_Sorting
+- file: src/05_Trees_and_Heaps
+- file: src/06_Graphs
+- file: src/07_Dynamic_Programming
